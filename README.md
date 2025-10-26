@@ -20,22 +20,34 @@ This update includes enhanced exploratory data analysis (EDA), clean visuals, an
 
 │
 ├── reports/
+
 │ └── 451-Week6-Term-Project-CheckpointB.pdf
+
 │
 ├── notebooks/
+
 │ └── Improved_quick_eda.ipynb
+
 │
 ├── week4_improved_outputs/
-│ ├── prices_levels.png
-│ ├── prices_normalized.png
-│ ├── daily_returns.png
-│ ├── rolling_vol_21d.png
-│ ├── correlation_matrix.png
-│ ├── close_prices.csv
-│ ├── log_returns.csv
-│ ├── metrics.csv
-│ └── correlations.csv
 
+│ ├── prices_levels.png
+
+│ ├── prices_normalized.png
+
+│ ├── daily_returns.png
+
+│ ├── rolling_vol_21d.png
+
+│ ├── correlation_matrix.png
+
+│ ├── close_prices.csv
+
+│ ├── log_returns.csv
+
+│ ├── metrics.csv
+
+│ └── correlations.csv
 
 ---
 
