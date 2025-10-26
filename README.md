@@ -15,7 +15,9 @@ This update includes enhanced exploratory data analysis (EDA), clean visuals, an
 ## Repository Structure
 
 ├── README.md
+
 ├── requirements.txt
+
 │
 ├── reports/
 │ └── 451-Week6-Term-Project-CheckpointB.pdf
